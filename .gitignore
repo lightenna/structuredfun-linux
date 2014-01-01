@@ -1,4 +1,7 @@
 
+# ignore data directory
+/data
+
 # ignore mediacache
 structured/mediacache
 
