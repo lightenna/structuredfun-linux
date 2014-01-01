@@ -1,0 +1,7 @@
+
+# ignore mediacache
+structured/mediacache
+
+# ignore user-specific config
+structured/conf/structured-conf.d/
+
