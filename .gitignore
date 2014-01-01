@@ -8,3 +8,9 @@ structured/mediacache
 # ignore user-specific config
 structured/conf/structured-conf.d/
 
+# ignore Eclipse project
+structured/.buildpath
+structured/.project
+structured/.settings
+
+
