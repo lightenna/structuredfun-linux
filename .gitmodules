@@ -1,0 +1,3 @@
+[submodule "structured/htdocs"]
+	path = structured/htdocs
+	url = git@github.com:lightenna/structuredfun-core.git
