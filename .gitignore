@@ -2,7 +2,8 @@
 # ignore data directory
 /data
 
-# ignore mediacache
+# ignore cache
+structured/datacache
 structured/mediacache
 
 # ignore user-specific config
