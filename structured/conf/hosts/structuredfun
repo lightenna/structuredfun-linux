@@ -1,1 +1,0 @@
-<%=ipaddress%>     sfun.localhost sfun.dev sfun.staging sfun.live sfun.<%=hostname%> sfun.<%=fqdn%>
