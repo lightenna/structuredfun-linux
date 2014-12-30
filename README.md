@@ -11,13 +11,3 @@ StructuredFun requires PHP 5.3 or later, but PHP 5.5 or later is recommended for
 Virtual hosts
 -------------
 An example virtual host is provided in /structured/conf/vhosts/sturcturefun.conf.  This will need customising for your environment.
-
-
-PHP.ini configuration
----------------------
-Enable php_fileinfo.ext.  Typically this just involves uncommenting the line in php.ini:
-
-```
-;extension=php_fileinfo.dll
-```
-
