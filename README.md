@@ -13,9 +13,9 @@ This repo contains a submodule so either checkout recursively or don't forget to
 
 Configure
 ---------
-You can run the server locally using PHP's embedded web server:
+You can run the server locally using Symfony's embedded web server:
 
-```php -S localhost:8097```
+```php structured/htdocs/app/console server:run 127.0.0.1:8097```
 
 Then view the app in a browser:
 
